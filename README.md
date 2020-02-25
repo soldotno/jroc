@@ -389,3 +389,4 @@ The Oslo-Bergen Tagger is a morphosyntactic tagger for Norwegian bokmål and nyn
 
 # Author
 [Domenico Solazzo](http://www.domenicosolazzo.com) - [Twitter](http://twitter.com/domenicosolazzo)
+
